@@ -1,5 +1,4 @@
-<h1>Default069 <img align="right" alt="Profile Hits" src="
-(https://komarev.com/ghpvc/?username=default069&style=flat-square) "></h1>
+<h1>Default069 <img align="right" alt="Profile Hits" src="././avatar.gif"></h1>
 
 ## About Me
 <p align="justify">I am a self-taught developer who has been studying programming for about a year.</p>
