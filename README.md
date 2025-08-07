@@ -44,10 +44,8 @@
 <a href="#"><img alt="css3" title="css3" src="././icons/css-3.png" height="42"></a>
 <a href="https://www.javascript.com/" target="_blanck"><img alt="js" title="js" src="././icons/js.png" height="42"></a>
 <a href="https://vite.dev/guide/"><img alt="reactjs" title="reactjs" src="././icons/reactjs.png" height="42"></a>
-<a href="https://nodejs.org/en"><img alt="nodejs" title="nodejs" src="././icons/node.png" height="42"></a>
-
 ### Languages/Frameworks I'm learning:
-
+<a href="https://nodejs.org/en"><img alt="nodejs" title="nodejs" src="././icons/node.png" height="42"></a>
 <a href="https://ru.wikipedia.org/wiki/Bash"><img alt="bash" title="bash" src="././icons/bash.png" height="42"></a>
 <a href="https://www.typescriptlang.org/"><img alt="typescript" title="ts" src="././icons/typescript.png" height="42"></a>
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img alt="nodejs" title="C Language" src="././icons/letter-c.png" height="42"></a>
