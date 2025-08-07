@@ -1,4 +1,4 @@
-<h1>Default069 <img align="right" alt="Profile Hits" src="././avatar.gif" width="42" height="42"></h1>
+<h1>Default069 <img align="right" alt="Profile Hits" src="././avatar.gif" width="60" height="60"></h1>
 
 ## About Me
 <p align="justify">I am a self-taught developer who has been studying programming for about a year.</p>
@@ -49,7 +49,7 @@
 ### Languages/Frameworks I'm learning:
 
 <a href="https://ru.wikipedia.org/wiki/Bash"><img alt="bash" title="bash" src="././icons/bash.png" height="42"></a>
-<a href="https://www.typescriptlang.org/"><img alt="TypeScript title="ts" src="././icons/typescript.png" height="42"></a>
+<a href="https://www.typescriptlang.org/"><img alt="typescript" title="ts" src="././icons/typescript.png" height="42"></a>
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img alt="nodejs" title="C Language" src="././icons/letter-c.png" height="42"></a>
 
 
