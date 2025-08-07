@@ -1,4 +1,4 @@
-<h1>Default069 <img align="right" alt="Profile Hits" src="././avatar.gif" width="60" height="60"></h1>
+<h1>Default069 <img align="right" alt="Profile Hits" src="././avatar.gif" width="50" height="50"></h1>
 
 ## About Me
 <p align="justify">I am a self-taught developer who has been studying programming for about a year.</p>
