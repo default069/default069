@@ -60,9 +60,6 @@
 <a href="https://www.linux.org/"><img alt="ubuntu Linux" title="ubuntu Linux" src="././icons/ubuntu.png" height="42"></a>
 <a href="https://ubuntu.com/tutorials/command-line-for-beginners#1-overview"><img alt="termina" title="terminal" src="././icons/technology.png" height="42"></a>
 
-## Recent GitHub Activity
-<!--END_SECTION:activity-->
-
 ## Show your support
 
 Follow me if you like my work, or perhaps even [Sponsor Me][sponsor]? ![](https://hit.yhype.me/github/profile?user_id=35486894)
