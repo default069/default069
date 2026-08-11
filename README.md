@@ -78,6 +78,7 @@ My goal is to become a strong backend developer, build reliable and scalable ser
 <a href="#">
   <img alt="css3" title="CSS3" src="././icons/css-3.png" height="42">
 </a>
+<br>
 <a href="https://www.javascript.com/" target="_blank">
   <img alt="javascript" title="JavaScript" src="././icons/js.png" height="42">
 </a>
