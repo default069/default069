@@ -1,71 +1,121 @@
-<h1>Default069 <img align="right" alt="Profile Hits" src="././avatar.gif" width="42" height="42"></h1>
+<h1>Abu Bakir <img align="right" alt="Profile Hits" src="././avatar.gif" width="42" height="42"></h1>
 
 ## About Me
-<p align="justify">I am a self-taught developer who has been studying programming for about a year.</p>
 
-<p align="justify">My main focus so far has been web development, and I’ve learned how to build websites using ReactJS. In addition to that, I’m currently learning the C programming language, as well as how to work with Bash for scripting and automation tasks.</p>
+<p align="justify">
+My name is <b>Abu Bakir</b>. I am a university student and a self-taught developer with about two years of programming experience.
+</p>
 
-<p align="justify">I’ve also started learning React Native and ElectronJS, as I’m very interested in creating both mobile and desktop applications. Recently, I’ve become fascinated by how programming languages work internally — especially how lexers and parsers function — and I’ve started studying how to create a programming language from scratch.</p>
+<p align="justify">
+During my first year, I focused mainly on web development and frontend technologies. I worked with HTML, CSS, JavaScript, ReactJS, and Tailwind CSS, gaining experience in building modern web applications and understanding how frontend systems work.
+</p>
 
-<p align="justify">At the same time, I’ve been working on improving my skills in the Linux terminal and understanding the underlying systems more deeply.</p>
+<p align="justify">
+Currently, I am focusing more deeply on backend development with <b>Go (Golang)</b>. I am learning how to build backend services, work with databases, design APIs, and understand the architecture behind modern web applications.
+</p>
 
-<p align="justify">My goal is to go deeper into the world of programming, explore different technologies, and become a better and more flexible developer overall.</p>
+<p align="justify">
+I have already worked with technologies such as <b>PostgreSQL, Redis, Apache Kafka, Gin</b>, and Go's standard <b>net/http</b> package. I am also currently studying <b>Rust</b> to deepen my understanding of systems programming and how programming languages and software work at a lower level.
+</p>
+
+<p align="justify">
+I also use Linux as my primary operating system and continue improving my knowledge of the Linux environment, terminal, and underlying system concepts.
+</p>
+
+<p align="justify">
+My goal is to become a strong backend developer, build reliable and scalable services, and continuously deepen my understanding of programming and computer systems.
+</p>
 
 ## 🚀 My Skills
 
-### 💻 Programming & Scripting
-- JavaScript (ES6+)
-- C (Basics)
-- Bash (Scripting & Automation)
+### 💻 Programming Languages
+
+* Go (Golang)
+* Rust (Learning)
+* JavaScript (ES6+)
 
 ### 🌐 Frontend Development
-- HTML5, CSS3
-- ReactJS
-- React Native
-- Tailwind CSS
 
-### 🧰 Tools & Frameworks
-- Node.js (Basics)
-- ElectronJS
-- Git & GitHub
-- VS Code
+* HTML5
+* CSS3
+* ReactJS
+* Tailwind CSS
+
+### ⚙️ Backend Development
+
+* Go (Golang)
+* net/http
+* Gin
+* PostgreSQL
+* Redis
+* Apache Kafka
+* REST API development
+
+### 🧰 Tools
+
+* Git
+* GitHub
+* VS Code
 
 ### 🖥️ Operating Systems
-- Linux (Ubuntu, CentOS)
-- Terminal / Shell usage
+
+* Linux (Fedora 44)
+* Terminal / Shell usage
 
 ### 🧠 Currently Learning
-- Lexers & Parsers (Language Design)
-- Creating a Programming Language
-- Deepening Linux knowledge
- 
-### Languages/Frameworks I'm good at:
-<a href="#"><img alt="html5" title="html" src="././icons/html-5(1).png" height="42"></a>
-<a href="#"><img alt="css3" title="css3" src="././icons/css-3.png" height="42"></a>
-<a href="https://www.javascript.com/" target="_blanck"><img alt="js" title="js" src="././icons/js.png" height="42"></a>
-<a href="https://vite.dev/guide/"><img alt="reactjs" title="reactjs" src="././icons/reactjs.png" height="42"></a>
-### Languages/Frameworks I'm learning:
-<a href="https://nodejs.org/en"><img alt="nodejs" title="nodejs" src="././icons/node.png" height="42"></a>
-<a href="https://ru.wikipedia.org/wiki/Bash"><img alt="bash" title="bash" src="././icons/bash.png" height="42"></a>
-<a href="https://www.typescriptlang.org/"><img alt="typescript" title="ts" src="././icons/typescript.png" height="42"></a>
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img alt="nodejs" title="C Language" src="././icons/letter-c.png" height="42"></a>
 
+* Deepening knowledge of Go (Golang) and backend development
+* Rust programming language
+* Deepening Linux knowledge
+
+### Languages / Frameworks I'm good at:
+<a href="#">
+   <img alt="GoLang" title="Golang" src="./icons/Go-Logo_Blue.png">
+</a>
+<a href="#">
+  <img alt="html5" title="HTML5" src="././icons/html-5(1).png" height="42">
+</a>
+<a href="#">
+  <img alt="css3" title="CSS3" src="././icons/css-3.png" height="42">
+</a>
+<a href="https://www.javascript.com/" target="_blank">
+  <img alt="javascript" title="JavaScript" src="././icons/js.png" height="42">
+</a>
+<a>
+   <img alt="GoLang" title="Golang" src="./icons/typescript.png">
+</a>
+<a href="https://react.dev/">
+  <img alt="reactjs" title="ReactJS" src="././icons/reactjs.png" height="42">
+</a>
+
+
+### Languages / Frameworks I'm learning:
+
+<a href="https://go.dev/">
+  <img alt="golang" title="Go" src="././icons/color.png" height="42">
+</a>
+<a href="https://www.rust-lang.org/">
+  <img alt="rust" title="Rust" src="././icons/rust.png" height="42">
+</a>
 
 ### Environments I work with:
 
-<a href="https://code.visualstudio.com/"><img alt="vs code" title="vs code" src="././icons/vscode.png" height="42"></a>
-<a href="https://www.linux.org/"><img alt="linux" title="Linux" src="././icons/linux.png" height="42"></a>
-<a href="https://github.com/features/actions"><img alt="packages" title="packages" src="././icons/packages.png" height="42"></a>
-<a href="https://github.com/"><img alt="github" title="github" src="././icons/github-mark.png" height="42"></a>
-<a href="https://www.linux.org/"><img alt="ubuntu Linux" title="ubuntu Linux" src="././icons/ubuntu.png" height="42"></a>
-<a href="https://ubuntu.com/tutorials/command-line-for-beginners#1-overview"><img alt="termina" title="terminal" src="././icons/technology.png" height="42"></a>
+<a href="https://code.visualstudio.com/">
+  <img alt="vs code" title="VS Code" src="././icons/vscode.png" height="42">
+</a>
+<a href="https://www.linux.org/">
+  <img alt="linux" title="Linux" src="././icons/linux.png" height="42">
+</a>
+<a href="https://fedoraproject.org/">
+  <img alt="linux" title="Fedora Linux" src="././icons/Fedora.png" height="42">
+</a>
 
 ## Show your support
 
-Follow me if you like my work, or perhaps even [Sponsor Me][sponsor]? ![](https://hit.yhype.me/github/profile?user_id=35486894)
+Follow me if you like my work, or perhaps even [Sponsor Me][sponsor]?
 
+![](https://hit.yhype.me/github/profile?user_id=35486894)
 
 <!-- Link anchors -->
 
 [sponsor]: https://github.com/sponsors/default069
-
