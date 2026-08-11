@@ -1,9 +1,9 @@
-<h1>Abu Bakir <img align="right" alt="Profile Hits" src="././avatar.gif" width="42" height="42"></h1>
+<h1>Default069<img align="right" alt="Profile Hits" src="././avatar.gif" width="42" height="42"></h1>
 
 ## About Me
 
 <p align="justify">
-My name is <b>Abu Bakir</b>. I am a university student and a self-taught developer with about two years of programming experience.
+Hello Guys about me  I am a university student and a self-taught developer with about two years of programming experience.
 </p>
 
 <p align="justify">
