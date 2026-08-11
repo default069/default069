@@ -69,6 +69,7 @@ My goal is to become a strong backend developer, build reliable and scalable ser
 * Deepening Linux knowledge
 
 ### Languages / Frameworks I'm good at:
+<div style="display: flex; justify-content: space-between; align-items: center;">
 <a href="#">
    <img alt="GoLang" title="Golang" src="./icons/Go-Logo_Blue.png" height="42">
 </a>
@@ -78,7 +79,6 @@ My goal is to become a strong backend developer, build reliable and scalable ser
 <a href="#">
   <img alt="css3" title="CSS3" src="././icons/css-3.png" height="42">
 </a>
-<br>
 <a href="https://www.javascript.com/" target="_blank">
   <img alt="javascript" title="JavaScript" src="././icons/js.png" height="42">
 </a>
@@ -88,6 +88,7 @@ My goal is to become a strong backend developer, build reliable and scalable ser
 <a href="https://react.dev/">
   <img alt="reactjs" title="ReactJS" src="././icons/reactjs.png" height="42">
 </a>
+</div>
 
 
 ### Languages / Frameworks I'm learning:
