@@ -70,7 +70,7 @@ My goal is to become a strong backend developer, build reliable and scalable ser
 
 ### Languages / Frameworks I'm good at:
 <a href="#">
-   <img alt="GoLang" title="Golang" src="./icons/Go-Logo_Blue.png">
+   <img alt="GoLang" title="Golang" src="./icons/Go-Logo_Blue.png" height="42">
 </a>
 <a href="#">
   <img alt="html5" title="HTML5" src="././icons/html-5(1).png" height="42">
@@ -82,7 +82,7 @@ My goal is to become a strong backend developer, build reliable and scalable ser
   <img alt="javascript" title="JavaScript" src="././icons/js.png" height="42">
 </a>
 <a>
-   <img alt="GoLang" title="Golang" src="./icons/typescript.png">
+   <img alt="GoLang" title="Golang" src="./icons/typescript.png" height="42">
 </a>
 <a href="https://react.dev/">
   <img alt="reactjs" title="ReactJS" src="././icons/reactjs.png" height="42">
